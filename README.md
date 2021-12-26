@@ -2,4 +2,4 @@
 cool things data
 
 ## Code Wars
-(https://github.com/ethanpelser/ethan-data-stuffs/tree/main/codewars)
+https://github.com/ethanpelser/ethan-data-stuffs/tree/main/codewars
